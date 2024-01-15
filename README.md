@@ -1,5 +1,10 @@
 Aplicacion móvil para iOS para la materia de Desarrollo de Aplicaciones Biométricas para la Universidad México Internacional UMI
 
+Video:
+
+
+https://www.youtube.com/watch?v=v7ABlzjqV-I
+
 Solicitud de permisos al usuario:
 
 
